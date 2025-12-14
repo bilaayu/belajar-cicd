@@ -6,6 +6,7 @@ import org.example.login.LoginPage;
 import org.testng.annotations.Test;
 
 public class LoginTest extends BaseTest{
+    //trigger pipeline
 
     @Test(groups = {"smoke"})
     public void testLogin() {
